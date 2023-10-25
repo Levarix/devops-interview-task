@@ -3,7 +3,7 @@
 ## Preparation:
 Before the interview, please ensure that you have the following software/tools installed on your laptop:
 
-1. **Ensure you are not using Windows WSL:** There is some issues with basic docker working
+1. **Ensure you are not using Windows WSL:** There is some issue with basic docker working
 
 2. **Docker:** Ensure Docker is installed and running on your laptop. You should be able to build and run Docker containers.
 
