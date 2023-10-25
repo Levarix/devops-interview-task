@@ -3,11 +3,13 @@
 ## Preparation:
 Before the interview, please ensure that you have the following software/tools installed on your laptop:
 
-1. **Docker:** Ensure Docker is installed and running on your laptop. You should be able to build and run Docker containers.
+1. **Ensure you are not using Windows WSL:** There is some issues with basic docker working
 
-2. **Kubectl:** Install and configure kubectl to interact with the Kubernetes cluster.
+2. **Docker:** Ensure Docker is installed and running on your laptop. You should be able to build and run Docker containers.
 
-3. **Minikube or Kind:** Choose between Minikube or Kind (Kubernetes in Docker) to run a local Kubernetes cluster. Make sure you have one of these tools installed.
+3. **Kubectl:** Install and configure kubectl to interact with the Kubernetes cluster.
+
+4. **Minikube or Kind:** Choose between Minikube or Kind (Kubernetes in Docker) to run a local Kubernetes cluster. Make sure you have one of these tools installed.
 
 
 ## Step 1: Docker image
