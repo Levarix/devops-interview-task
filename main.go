@@ -25,5 +25,5 @@ func main() {
 	http.HandleFunc("/", handler)
 	port := "8080"
 	fmt.Printf("Listening on port %s...\n", port)
-	http.ListenAndServe("127.0.0.1:"+port, nil)
+	http.ListenAndServe("0.0.0.0:"+port, nil)
 }
