@@ -28,7 +28,7 @@ How to run Go application: `./my-app`
 
 You should prepare the necessary Kubernetes YAML files. These should include:
 
-- Deployment configuration for the application with environment variable with name `secret` vith value from kubernetes secret.
+- Deployment configuration for the application with environment variable `secret` and value taken from kubernetes secret.
 - Service configuration if required.
 - A secret configuration containing sensitive information which is: `sUp3rS3creTVa1u3#`
 
